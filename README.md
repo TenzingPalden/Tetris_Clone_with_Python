@@ -1,7 +1,7 @@
 # Tetris-Clone
 # Hello All! 👋
 This is a Tetris clone made in Python using PyGame and some resources on YouTube.
-They goal for Tetris is to … I don’t want to explain this lol.
+The goal for Tetris is to … I don’t want to explain this lol.
 
 ## KEYS ARE BELOW:
 
