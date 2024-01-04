@@ -1,20 +1,18 @@
 # Tetris-Clone
-# Hello All! 👋
 This is a Tetris clone made in Python using PyGame and some resources on YouTube.
-The goal for Tetris is to … I don’t want to explain this lol.
-
+The goal for Tetris is to conifgure blocks into a flat pattern while they fall from the sky. A classic and beloved game that I had to recreate.
 ## KEYS ARE BELOW:
 
 Arrow up: Rotate block piece
 
-Arrow left: Move block 1 grid space to left
+Arrow left: Move block 1 grid space to the left
 
-Arrow right: Move block 1 grid space to right
+Arrow right: Move block 1 grid space to the right
 
-Spacebar : Move piece all the way down  immediately
+Spacebar: Move the piece all the way down 
 
 Return key: Start the game in the home page
 
 Q key: quit the game anywhere
 
-ENJOY FRIENDS!
+Enjoy my recreation. 
