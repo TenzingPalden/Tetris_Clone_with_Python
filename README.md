@@ -1,27 +1,25 @@
-# Tetris-Clone (Python Exercise)
+# Tetris-Clone (Python Exercise) 
 
 This is a Tetris clone made in Python using PyGame and some resources on YouTube.
 The goal of Tetris is to configure blocks into a flat pattern while they fall from the sky. It is a classic and beloved game that I felt compelled to recreate and learn from.
 This was a great lesson in Object Oriented Programming as well as visualization of pixels within a grid space.
 
+<img src="https://github.com/TenzingPalden/Tetris_clone_Python/assets/85039775/81b8b719-4a49-4c69-96e4-cb34401902b5" alt="Image Description" width="300"/>
 
-## KEYS ARE BELOW:
-Arrow up: Rotate block piece
+## How to PLay:
 
-Arrow left: Move block 1 grid space to the left
+```Arrow up```: Rotate block piece
 
-Arrow right: Move block 1 grid space to the right
+```Arrow left```: Move block 1 grid space to the left
 
-Spacebar: Move the piece all the way down 
+```Arrow right```: Move block 1 grid space to the right
 
-Return key: Start the game in the home page
+```Spacebar```: Move the piece all the way down 
 
-Q key: quit the game anywhere
+```Return key```: Start the game on the home page
 
-Enjoy my recreation of the classic and timeless game.
+```Q key```: quit the game anywhere
 
-<img src="https://github.com/TenzingPalden/Tetris_clone_Python/assets/85039775/81b8b719-4a49-4c69-96e4-cb34401902b5" alt="Image Description" width="500"/>
-
-## Future plans:
- Fin. 
+## Future plans for this project:
+ This project is deemed complete until further notice. Enjoy my recreation of the classic and timeless game!
 
